@@ -24,7 +24,6 @@ int main(){
     //     float height;
     // };
 
-
     // union someoneElse
     // {
     //     int power[100];
